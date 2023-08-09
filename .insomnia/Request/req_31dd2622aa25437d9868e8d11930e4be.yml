@@ -1,0 +1,21 @@
+_id: req_31dd2622aa25437d9868e8d11930e4be
+type: Request
+parentId: fld_194098be5b99492398c9396128db7995
+modified: 1691385601222
+created: 1691385458131
+url: 49.50.94.117:83/api/Researcher/GetResearcherAuthPublications?UniversityId=3&AuthorId=8394
+name: get data for article
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691385458131
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

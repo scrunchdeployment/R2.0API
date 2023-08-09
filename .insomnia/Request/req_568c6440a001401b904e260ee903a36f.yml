@@ -1,0 +1,21 @@
+_id: req_568c6440a001401b904e260ee903a36f
+type: Request
+parentId: fld_2cc8fe118ab24d9d8d8bd7cf9e7ef55b
+modified: 1691384067646
+created: 1691384028628
+url: http://49.50.94.117:83/api/Search/GetSearchForAutoComplete?SearchColumn=Department&SearchString=Auto
+name: Non - Customer department
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691384028628
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

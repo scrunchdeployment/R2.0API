@@ -1,0 +1,273 @@
+_id: req_d7e7360c5e4245ba90b597169c5d461b
+type: Request
+parentId: fld_2cc8fe118ab24d9d8d8bd7cf9e7ef55b
+modified: 1691389798169
+created: 1691389748395
+url: http://49.50.94.117:83/api/publication/SavePublicationFromDFS?loginUserId=2&loginUserRoleId=11
+name: Save Data in DFS
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+        "dfsPublication": {
+            "publicationId": 0,
+            "doi": "10.1108/09685220710759540",
+            "title": "Information systems planning practices in Indian public enterprises",
+            "levelId": "1",
+            "level": "National",
+            "volume": "15",
+            "issno": "3",
+            "bPage": "201",
+            "ePage": "213",
+            "acceptedDate": "2022-02-19T00:00:00",
+            "onlineDate": "2007-06-12T00:00:00.000Z",
+            "printDate": "2007-06-12T00:00:00.000Z",
+            "publishedDate": "2007-06-12T00:00:00.000Z",
+            "webLink": "http://dx.doi.org/10.1108/09685220710759540",
+            "publisherId": 258,
+            "publisherName": "Emerald",
+            "publicationSourceId": 7,
+            "publicationSourceName": "Information Management and Computer Security",
+            "articleTypeId": 0,
+            "articleTypeName": "journal-article",
+            "pissn": "0968-5227",
+            "eissn": null,
+            "pisbn": null,
+            "eisbn": null,
+            "abstract": "<jats:sec><jats:title content-type=\"abstract-heading\">Purpose</jats:title><jats:p>To determine and analyze the information systems planning practices in Indian public enterprises.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-heading\">Design/methodology/approach</jats:title><jats:p>The study is an empirical investigation of Indian public enterprises and thus is primary data based. The primary data was collected from a scientifically‐computed sample of respondents through a pre‐tested designed questionnaire. Thus, the collected data was subjected to appropriate statistical methods to reach meaningful conclusions.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-heading\">Findings</jats:title><jats:p>The findings from the study provide insights in IS planning practices in Indian public enterprises.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-heading\">Research limitations implications</jats:title><jats:p>Only two large enterprises in the public sector have been considered for the purpose of this study. Similar studies with a large number of organizations may further increase the reliability of the findings.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-heading\">Practical implications</jats:title><jats:p>The recommendations, based on the findings from this study, can go a long way in improving the health of information systems, which in turn, would improve the efficiency and effectiveness of the organizations.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-heading\">Originality/value</jats:title><jats:p>The research is original and is based on the primary data collection and interpretation.</jats:p></jats:sec>",
+            "authors": "D.P. G.,",
+            "authorAddress": null,
+            "technologyArea": "Library and Information Sciences;Management Science and Operations Research;Business and International Management;Management Information Systems;"
+        },
+        "dfsIndexing": [
+            {
+                "indexingType": "ArticleIndexing",
+                "fieldNameId": 1,
+                "fieldName": "SCOPUS",
+                "fieldDesc": "SCOPUS DB",
+                "forDFSInputValue": 1,
+                "inputValueDataType": "int",
+                "IsApplicable": 1,
+                "indexingId": 0,
+                "indexingValue": "11"
+            },
+            {
+                "indexingType": "ArticleIndexing",
+                "fieldNameId": 2,
+                "fieldName": "WOS",
+                "fieldDesc": "Web of Science",
+                "forDFSInputValue": 1,
+                "inputValueDataType": "int",
+                "IsApplicable": 0,
+                "indexingId": 0,
+                "indexingValue": ""
+            },
+            {
+                "indexingType": "ArticleIndexing",
+                "fieldNameId": 3,
+                "fieldName": "GS",
+                "fieldDesc": "Google Scholar",
+                "forDFSInputValue": 0,
+                "inputValueDataType": "int",
+                "IsApplicable": 0,
+                "indexingId": 0,
+                "indexingValue": ""
+            },
+            {
+                "indexingType": "ArticleIndexing",
+                "fieldNameId": 4,
+                "fieldName": "PUBMED",
+                "fieldDesc": "PUBMED",
+                "forDFSInputValue": 0,
+                "inputValueDataType": "int",
+                "IsApplicable": 0,
+                "indexingId": 0,
+                "indexingValue": ""
+            },
+            {
+                "indexingType": "ArticleIndexing",
+                "fieldNameId": 5,
+                "fieldName": "IEEE",
+                "fieldDesc": "IEEE",
+                "forDFSInputValue": 1,
+                "inputValueDataType": "int",
+                "IsApplicable": 0,
+                "indexingId": 0,
+                "indexingValue": ""
+            },
+            {
+                "indexingType": "ArticleIndexing",
+                "fieldNameId": 6,
+                "fieldName": "CROSSREF",
+                "fieldDesc": "Crossref",
+                "forDFSInputValue": 1,
+                "inputValueDataType": "int",
+                "IsApplicable": 0,
+                "indexingId": 0
+            },
+            {
+                "indexingType": "ArticleIndexing",
+                "fieldNameId": 7,
+                "fieldName": "ICI",
+                "fieldDesc": "Indian Citation Index",
+                "forDFSInputValue": 1,
+                "inputValueDataType": "int",
+                "IsApplicable": 0,
+                "indexingId": 0,
+                "indexingValue": ""
+            },
+            {
+                "indexingType": "SourceIndexing",
+                "fieldNameId": 1,
+                "fieldName": "SNIP",
+                "fieldDesc": "SNIP",
+                "forDFSInputValue": 0,
+                "inputValueDataType": "decimal",
+                "IsApplicable": 1,
+                "indexingId": 0,
+                "indexingValue": "0.000"
+            },
+            {
+                "indexingType": "SourceIndexing",
+                "fieldNameId": 2,
+                "fieldName": "SJR",
+                "fieldDesc": "SJR",
+                "forDFSInputValue": 0,
+                "inputValueDataType": "decimal",
+                "IsApplicable": 0,
+                "indexingId": 0,
+                "indexingValue": ""
+            },
+            {
+                "indexingType": "SourceIndexing",
+                "fieldNameId": 3,
+                "fieldName": "SCI",
+                "fieldDesc": "Science Citation Index",
+                "forDFSInputValue": 0,
+                "inputValueDataType": "nvarchar",
+                "IsApplicable": 1,
+                "indexingId": 0,
+                "indexingValue": "Yes"
+            },
+            {
+                "indexingType": "SourceIndexing",
+                "fieldNameId": 4,
+                "fieldName": "ImpactFactor",
+                "fieldDesc": "ImpactFactor",
+                "forDFSInputValue": 0,
+                "inputValueDataType": "decimal",
+                "IsApplicable": 0,
+                "indexingId": 0,
+                "indexingValue": ""
+            },
+            {
+                "indexingType": "SourceIndexing",
+                "fieldNameId": 5,
+                "fieldName": "QRank",
+                "fieldDesc": "QRank",
+                "forDFSInputValue": 0,
+                "inputValueDataType": "nvarchar",
+                "IsApplicable": 1,
+                "indexingId": 0,
+                "indexingValue": "Q1"
+            },
+            {
+                "indexingType": "SourceIndexing",
+                "fieldNameId": 6,
+                "fieldName": "ABDC",
+                "fieldDesc": "ABDC",
+                "forDFSInputValue": 0,
+                "inputValueDataType": "nvarchar",
+                "IsApplicable": 1,
+                "indexingId": 0,
+                "indexingValue": "A"
+            },
+            {
+                "indexingType": "SourceIndexing",
+                "fieldNameId": 7,
+                "fieldName": "MCI",
+                "fieldDesc": "MCI",
+                "forDFSInputValue": 0,
+                "inputValueDataType": "nvarchar",
+                "IsApplicable": 0,
+                "indexingId": 0,
+                "indexingValue": ""
+            },
+            {
+                "indexingType": "SourceIndexing",
+                "fieldNameId": 8,
+                "fieldName": "CORE",
+                "fieldDesc": "CORE",
+                "forDFSInputValue": 0,
+                "inputValueDataType": "nvarchar",
+                "IsApplicable": 0,
+                "indexingId": 0,
+                "indexingValue": ""
+            },
+            {
+                "indexingType": "SourceIndexing",
+                "fieldNameId": 9,
+                "fieldName": "CiteScore",
+                "fieldDesc": "CiteScore",
+                "forDFSInputValue": 0,
+                "inputValueDataType": "decimal",
+                "IsApplicable": 0,
+                "indexingId": 0,
+                "indexingValue": ""
+            },
+            {
+                "indexingType": "SourceIndexing",
+                "fieldNameId": 10,
+                "fieldName": "UGCCare",
+                "fieldDesc": "UGC Care",
+                "forDFSInputValue": 0,
+                "inputValueDataType": "nvarchar",
+                "IsApplicable": 1,
+                "indexingId": 0,
+                "indexingValue": "Group 2"
+            },
+            {
+                "indexingType": "SourceIndexing",
+                "fieldNameId": 11,
+                "fieldName": "UGCCareGroup1",
+                "fieldDesc": "UGC Care Group1",
+                "forDFSInputValue": 0,
+                "inputValueDataType": "nvarchar",
+                "IsApplicable": 0,
+                "indexingId": 0,
+                "indexingValue": ""
+            }
+        ],
+        "dfsAuthors": [
+            {
+                "universityId": 7,
+                "universityName": "Institute of Management Technology, Ghaziabad",
+                "userId": 3,
+                "fullName": "VISHAL TALWAR",
+                "departmentId": 2,
+                "departmentName": "Economic Environment and Policy",
+                "instituteId": 2,
+                "instituteName": "Faculty of Economic Environment and Policy",
+                "locationId": 1,
+                "locationName": "Ghaziabad",
+                "countryId": 103,
+                "countryName": "India",
+                "correspondingEmail": null
+            }
+        ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1691389748395
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

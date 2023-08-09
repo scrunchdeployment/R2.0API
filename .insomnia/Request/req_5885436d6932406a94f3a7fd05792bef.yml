@@ -1,0 +1,21 @@
+_id: req_5885436d6932406a94f3a7fd05792bef
+type: Request
+parentId: fld_2cc8fe118ab24d9d8d8bd7cf9e7ef55b
+modified: 1689835213293
+created: 1689835168895
+url: http://49.50.94.117:83/api/Master/GetDBNameForDFS
+name: SourceIndexing and Article Indexing
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1689835168895
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

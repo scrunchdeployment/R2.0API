@@ -1,0 +1,21 @@
+_id: req_9cf907910dd1479c80febadcf275f79b
+type: Request
+parentId: fld_d5d51f0f031e458bbe27259503e8a320
+modified: 1691387247346
+created: 1691386850508
+url: 49.50.94.117:83/api/Researcher/GetResearcherAuthPublications?UniversityId=&AuthorId=
+name: Researcher publication detail
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691386850508
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

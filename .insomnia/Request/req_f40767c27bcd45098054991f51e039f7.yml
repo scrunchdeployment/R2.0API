@@ -1,0 +1,21 @@
+_id: req_f40767c27bcd45098054991f51e039f7
+type: Request
+parentId: fld_d5d51f0f031e458bbe27259503e8a320
+modified: 1691387363091
+created: 1691387296960
+url: 49.50.94.117:83/api/Researcher/GetResearcherDocumentCounts?UniversityId=&AuthorId=
+name: Researcher documentation count
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691387296960
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

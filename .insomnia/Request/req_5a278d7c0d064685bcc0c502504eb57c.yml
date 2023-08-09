@@ -1,0 +1,24 @@
+_id: req_5a278d7c0d064685bcc0c502504eb57c
+type: Request
+parentId: fld_2cc8fe118ab24d9d8d8bd7cf9e7ef55b
+modified: 1689842070568
+created: 1689837979647
+url: http://49.50.94.117:83/api/Search/GetPubSourceForAutoComplete?PublicationSourceId=2
+name: DATA POPULATE BASED ON SOURCE NAME
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: PublicationSourceId
+    value: "2"
+    disabled: false
+headers: []
+authentication: {}
+metaSortKey: -1689837979647
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

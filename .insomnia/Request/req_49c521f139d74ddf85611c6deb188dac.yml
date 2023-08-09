@@ -1,0 +1,41 @@
+_id: req_49c521f139d74ddf85611c6deb188dac
+type: Request
+parentId: fld_8e74b19a59f84ed2a1f560a1e26d07b1
+modified: 1691386667942
+created: 1691386579593
+url: 49.50.94.117:83/api/Researcher/PostResearcherList
+name: Faculty data with pagination
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "universityId": 3,
+      "roleId": 6,
+      "loginUserId": 8377,
+      "locationId": 0,
+      "instituteId": 0,
+      "departmentId": 0,
+      "sortColumnName": null,
+      "sortType": null,
+      "fromMonthYear": null,
+      "toMonthYear":null,
+      "startRow": 0,
+      "endRow": 5,
+      "download": 0,
+      "filter": 0
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1691386579593
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

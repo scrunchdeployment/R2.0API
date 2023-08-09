@@ -1,0 +1,21 @@
+_id: req_83ead5bbdf0f4cfca0999410799aaca6
+type: Request
+parentId: fld_5e35c35148334722b19a77d87e07774c
+modified: 1691389635447
+created: 1691389543363
+url: 49.50.94.117:83/api/Master/GetRoles?universityId=&UserId=
+name: List of Role
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691389543363
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

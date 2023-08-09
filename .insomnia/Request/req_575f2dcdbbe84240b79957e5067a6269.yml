@@ -1,0 +1,21 @@
+_id: req_575f2dcdbbe84240b79957e5067a6269
+type: Request
+parentId: fld_35a1edd964f94739a850c8f5058be090
+modified: 1691386234132
+created: 1691386025639
+url: 49.50.94.117:83/api/Publication/GetPubScoreBookMetrics?universityId=3&roleId=9&loginUserId=8394
+name: "Scorebook data "
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691386025639
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

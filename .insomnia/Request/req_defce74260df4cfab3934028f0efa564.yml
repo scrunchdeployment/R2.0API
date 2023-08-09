@@ -1,0 +1,21 @@
+_id: req_defce74260df4cfab3934028f0efa564
+type: Request
+parentId: fld_f1e4bd0fe68e495aab80a3f0da11371b
+modified: 1691387868247
+created: 1691387823471
+url: 49.50.94.117:83/api/User/GetUserInfoForEdit?universityId=&userId=
+name: Get user detail
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691387823471
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

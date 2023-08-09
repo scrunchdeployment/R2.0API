@@ -1,0 +1,21 @@
+_id: req_ee506f79e3484ff29edfe9b9ac71105a
+type: Request
+parentId: fld_2cc8fe118ab24d9d8d8bd7cf9e7ef55b
+modified: 1689834654737
+created: 1689834532852
+url: http://49.50.94.117:83/api/Search/GetSearchForAutoComplete?SearchColumn=University&SearchString=
+name: University List
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1689834532852
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

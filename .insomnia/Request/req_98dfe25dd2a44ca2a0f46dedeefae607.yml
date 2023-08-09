@@ -1,0 +1,21 @@
+_id: req_98dfe25dd2a44ca2a0f46dedeefae607
+type: Request
+parentId: fld_0cfbdb69b5dd437ebe907cf125fb89a1
+modified: 1691480031788
+created: 1691388395113
+url: 49.50.94.117:83/api/Master/GetMasterDropDownValues?columnName=gender
+name: Drop down for gender, designation, user status, title
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691388395113
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

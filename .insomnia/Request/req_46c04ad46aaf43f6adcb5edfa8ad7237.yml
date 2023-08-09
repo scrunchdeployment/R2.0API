@@ -1,0 +1,21 @@
+_id: req_46c04ad46aaf43f6adcb5edfa8ad7237
+type: Request
+parentId: fld_ee783bd97a7648a487c19f302cc1c5a5
+modified: 1691384288985
+created: 1691384229847
+url: http://49.50.94.117:83/api/Search/GetRFSPublicationUserAvailability?userId=15182&type=L&publicationId=3680
+name: User availability for DOI or Title
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691384229847
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_8a31cf82e26d4f99838ef59955831757
+type: Request
+parentId: fld_42f938d9e6d4493a81a9e9c45c817381
+modified: 1691385220566
+created: 1691385098693
+url: 49.50.94.117:83/api/Master/GetUnivLocInstDeparment?universityId=3&roleId=9&loginUserId=8394
+name: Institute, Department, Campus
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691385098693
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,41 @@
+_id: req_61a9297acd1141b6b7f3c647f3567b19
+type: Request
+parentId: fld_42f938d9e6d4493a81a9e9c45c817381
+modified: 1691495327179
+created: 1691384905963
+url: http://49.50.94.117:83/api/User/PostUserListByUniversity
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "universityId": 3,
+      "roleId": 9,
+      "loginUserId": 8394,
+      "locationId": null,
+      "instituteId": 7,
+      "departmentId": 9,
+      "sortColumnName": null,
+      "sortType": null,
+      "fromMonthYear": null,
+      "toMonthYear":null,
+      "startRow": 0,
+      "endRow": 5,
+      "download": 0,
+      "filter": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1691384905963
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

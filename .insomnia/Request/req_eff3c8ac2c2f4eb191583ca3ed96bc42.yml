@@ -1,0 +1,21 @@
+_id: req_eff3c8ac2c2f4eb191583ca3ed96bc42
+type: Request
+parentId: fld_2cc8fe118ab24d9d8d8bd7cf9e7ef55b
+modified: 1689836633696
+created: 1689836593629
+url: http://49.50.94.117:83/api/Search/GetSearchForAutoComplete?SearchColumn=Journal
+name: TITLE API
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1689836593629
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_0350497dd4fa4520aa56915e313d325f
+type: Request
+parentId: fld_2cc8fe118ab24d9d8d8bd7cf9e7ef55b
+modified: 1689843287820
+created: 1689843228183
+url: http://49.50.94.117:83/api/Publication/GetCrossRefData?DOI=10.1007/978-3-319-20294-5_65
+name: DOI search
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1689843228183
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_0a0265f607504f288b9262419292f30e
+type: Request
+parentId: fld_2cc8fe118ab24d9d8d8bd7cf9e7ef55b
+modified: 1691384022498
+created: 1691383989987
+url: http://49.50.94.117:83/api/Search/GetSearchForAutoComplete?SearchColumn=Institute&SearchString=Auto
+name: Non - Customer university
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691383989987
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

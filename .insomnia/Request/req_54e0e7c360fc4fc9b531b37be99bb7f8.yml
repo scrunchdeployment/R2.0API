@@ -1,0 +1,21 @@
+_id: req_54e0e7c360fc4fc9b531b37be99bb7f8
+type: Request
+parentId: fld_ee783bd97a7648a487c19f302cc1c5a5
+modified: 1691384163883
+created: 1691384122599
+url: http://49.50.94.117:83/api/Search/GetPublicationForDOIorTitle?IsDOI=1&SearchText=10.1016%2Fj.matpr.2021.07.212
+name: Search data by DOI
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691384122599
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

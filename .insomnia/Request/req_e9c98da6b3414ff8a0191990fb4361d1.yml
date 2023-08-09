@@ -1,0 +1,21 @@
+_id: req_e9c98da6b3414ff8a0191990fb4361d1
+type: Request
+parentId: fld_d5d51f0f031e458bbe27259503e8a320
+modified: 1691387456972
+created: 1691387366230
+url: 49.50.94.117:83/api/Researcher/GetResearcherArticleCounts?UniversityId=&AuthorId=
+name: Article count
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691387366230
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

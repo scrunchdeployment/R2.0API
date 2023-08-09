@@ -1,0 +1,10 @@
+_id: fld_8e74b19a59f84ed2a1f560a1e26d07b1
+type: RequestGroup
+parentId: wrk_e97b91dbd6fc444d8523a382a7c2b65e
+modified: 1691386578260
+created: 1691386578260
+name: Faculty list
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1691386578260

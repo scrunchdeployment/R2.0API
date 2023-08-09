@@ -1,0 +1,29 @@
+_id: req_ebd6daefdcce4f08a3f48b81fc7775a4
+type: Request
+parentId: fld_757de488fd4f49e093977f61b272ab6c
+modified: 1691389719727
+created: 1691389668798
+url: http://49.50.94.117:85/api/Account/Login?username=Cedric&password=123
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"userName":"Cedric",
+    	"password":"123"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1691389668798
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

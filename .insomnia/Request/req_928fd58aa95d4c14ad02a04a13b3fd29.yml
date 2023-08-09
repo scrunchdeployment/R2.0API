@@ -1,0 +1,38 @@
+_id: req_928fd58aa95d4c14ad02a04a13b3fd29
+type: Request
+parentId: fld_ee783bd97a7648a487c19f302cc1c5a5
+modified: 1691554534254
+created: 1691384740224
+url: http://49.50.94.117:83/api/Publication/SaveRFSPublicationQueue?loginUserId=15211&loginUserRoleId=2
+name: Save RFS publication
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "rfsPublicationQueueId": 0,
+      "universityId": 41,
+      "userId": 15211,
+      "publicationId": 3682,
+      "publicationTitle":null,
+      "publicationSourceId": 0,
+      "publicationSource": null,
+      "doi": null,
+      "pdFfileLocation": null,
+      "webLink": null,
+      "rfsTypeId": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1691384740224
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_881d4ac4cd4a4c19964f51ec0bfaa14b
+type: Request
+parentId: fld_7639f3cb5beb4ba0aecdd72a65218a88
+modified: 1691389480026
+created: 1691389146802
+url: 49.50.94.117:83/api/Home/GetDashboard?UniversityId=&RoleId=&LoginUserid=
+name: List module for dashboard API
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691389146802
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
