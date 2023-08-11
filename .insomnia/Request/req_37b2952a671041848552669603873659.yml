@@ -1,0 +1,21 @@
+_id: req_37b2952a671041848552669603873659
+type: Request
+parentId: fld_5cf196aaad914f97a2e54d2fba63b8b7
+modified: 1691739085413
+created: 1691733792449
+url: 49.50.94.117:83/api/Support/GetRFSSupportRequests?roleId=12&loginUserId=8
+name: Request for RFS Support Admin Role
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1691733792449
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

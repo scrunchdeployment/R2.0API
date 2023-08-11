@@ -1,9 +1,9 @@
 _id: req_416d957392f14067a4010ad2273ba39f
 type: Request
 parentId: fld_5ad84bcc060e40b3b57291cf1019771b
-modified: 1691386359940
+modified: 1691572339532
 created: 1691386295521
-url: 49.50.94.117:83/api/Master/GetUnivLocInstDeparment?universityId=3&roleId=9&loginUserId=8394
+url: 49.50.94.117:83/api/Master/GetUnivLocInstDeparment?universityId=41&roleId=5&loginUserId=8394
 name: Institute, Department, Campus
 description: ""
 method: GET
