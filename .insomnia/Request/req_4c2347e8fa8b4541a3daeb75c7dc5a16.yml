@@ -1,0 +1,64 @@
+_id: req_4c2347e8fa8b4541a3daeb75c7dc5a16
+type: Request
+parentId: fld_5cf196aaad914f97a2e54d2fba63b8b7
+modified: 1692253647233
+created: 1692252528193
+url: 49.50.94.117:83/api/Publication/SaveRFSPublicationQueue?loginUserId=15211&loginUserRoleId=2
+name: save RFS Support
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "rfsPublicationQueue": {
+        "rfsPublicationQueueId": 0,
+        "rfsPublicationLinkRequestId": 0,
+        "universityId": 41,
+        "userId": 15161,
+        "publicationId": 3624,
+        "publicationTitle": null,
+        "publicationSourceId": 0,
+        "publicationSource": null,
+        "doi": null,
+        "pdFfileLocation": null,
+        "webLink": null,
+        "rfsTypeId": 1,
+        "swappedUserId": 0,
+        "isUserAddressSame": true,
+        "isCorrespondingAuthor": true,
+        "actionTypeId": 0,
+        "remark": null,
+        "takenBy": 0,
+        "verifiedBy": 0
+      },
+      "rfsLinkAuthorAdd": {
+        "universityId": 0,
+        "universityName": "string",
+        "userId": 0,
+        "fullName": "string",
+        "locationId": 0,
+        "locationName": "string",
+        "countryId": 0,
+        "countryName": "string",
+        "instituteId": 0,
+        "instituteName": "string",
+        "departmentId": 0,
+        "departmentName": "string",
+        "correspondingEmail": "string",
+        "correspondingAuthor": 0
+      }
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1692252528194
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
