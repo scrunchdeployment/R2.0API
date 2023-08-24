@@ -1,17 +1,17 @@
-_id: req_c0b6fbef360f48f0abd9c938cd81d273
+_id: req_7400ca23d03241429267ce0ec5135bf6
 type: Request
 parentId: fld_5cf196aaad914f97a2e54d2fba63b8b7
-modified: 1692617536437
-created: 1691733661322
-url: 49.50.94.117:83/api/Support/GetRFSSupportRequests?roleId=11&universityId=41
-name: "Request  for RFS support role "
+modified: 1692616916940
+created: 1692616869986
+url: http://49.50.94.117:83/api/Search/GetSearchForAutoComplete?SearchColumn=University&SearchString=/api/Support/GetRFSPubLinkAuthorDetails?RFSRequestId=2
+name: Find Request
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1691733661322
+metaSortKey: -1692616869986
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

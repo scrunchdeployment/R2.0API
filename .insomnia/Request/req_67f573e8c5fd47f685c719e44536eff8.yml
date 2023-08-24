@@ -1,17 +1,17 @@
-_id: req_54e0e7c360fc4fc9b531b37be99bb7f8
+_id: req_67f573e8c5fd47f685c719e44536eff8
 type: Request
 parentId: fld_ee783bd97a7648a487c19f302cc1c5a5
-modified: 1692336230773
-created: 1691384122599
-url: http://49.50.94.117:83/api/Search/GetPublicationForDOIorTitle?IsDOI=1&SearchText=10.4018/978-1-4666-8259-7
-name: Search data by DOI
+modified: 1692257369675
+created: 1692257356830
+url: http://49.50.94.117:83/api/Search/GetSearchForAutoComplete?SearchColumn=Journal
+name: TITLE for RFS
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1691384122599
+metaSortKey: -1692257356830
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

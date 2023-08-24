@@ -1,9 +1,11 @@
 _id: req_79951c5cd7bc420fa807c0bf5d9f21ad
 type: Request
 parentId: fld_ee783bd97a7648a487c19f302cc1c5a5
-modified: 1691384196957
+modified: 1692338446999
 created: 1691384167961
-url: http://49.50.94.117:83/api/Search/GetPublicationForDOIorTitle?IsTitle=1&SearchText=3D%20concrete%20printing%20matrix%20reinforced%20with%20Geogrid
+url: "http://49.50.94.117:83/api/Search/GetPublicationForDOIorTitle?IsTitle=1&S\
+  earchText=Managing self towards managing people: Role of perceived emotional
+  competencies in healthcare organisations"
 name: Search data by Title
 description: ""
 method: GET
