@@ -1,9 +1,9 @@
 _id: req_ebd6daefdcce4f08a3f48b81fc7775a4
 type: Request
 parentId: fld_757de488fd4f49e093977f61b272ab6c
-modified: 1691557851267
+modified: 1695117204175
 created: 1691389668798
-url: http://49.50.94.117:85/api/Account/Login?username=Cedric&password=123
+url: http://49.50.94.117:83/api/Account/Login?username=rec_faculty1&password=123
 name: New Request
 description: ""
 method: POST
@@ -11,13 +11,14 @@ body:
   mimeType: application/json
   text: |-
     {
-    	"userName":"Cedric",
+    	"userName":"rec_faculty1",
     	"password":"123"
     }
 parameters: []
 headers:
   - name: Content-Type
     value: application/json
+    id: pair_badfb3ea4d144013a0adf22bf9b9dfe9
 authentication: {}
 metaSortKey: -1691389668798
 isPrivate: false

@@ -1,17 +1,17 @@
-_id: req_7400ca23d03241429267ce0ec5135bf6
+_id: req_f2e76b0464ba40febf395372e289e939
 type: Request
 parentId: fld_5cf196aaad914f97a2e54d2fba63b8b7
-modified: 1693381255101
-created: 1692616869986
-url: http://49.50.94.117:83/api/Support/GetRFSPubLinkAuthorDetails?RFSRequestId=2&RFSTypeId=1
-name: Find Request
+modified: 1695208651463
+created: 1695208632997
+url: http://49.50.94.117:83/api/Support/GetRFSSupportRequests?roleId=12&loginUserId=8
+name: RFS Support List
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1692616869986
+metaSortKey: -1695208632997
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

@@ -1,17 +1,17 @@
-_id: req_7400ca23d03241429267ce0ec5135bf6
+_id: req_7ec29051acbc43b191694b67b6f623fe
 type: Request
 parentId: fld_5cf196aaad914f97a2e54d2fba63b8b7
-modified: 1693381255101
-created: 1692616869986
-url: http://49.50.94.117:83/api/Support/GetRFSPubLinkAuthorDetails?RFSRequestId=2&RFSTypeId=1
-name: Find Request
+modified: 1693379571179
+created: 1693379447110
+url: http://49.50.94.117:83/api/Support/GetRFSRequestedUserDetails?RFSTypeId=2&RFSRequestId=2
+name: Cross Ref
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1692616869986
+metaSortKey: -1693379447110
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

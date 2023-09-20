@@ -1,0 +1,38 @@
+_id: req_5e31bb03d43a46299f87d46574b01f12
+type: Request
+parentId: fld_5cf196aaad914f97a2e54d2fba63b8b7
+modified: 1695208577369
+created: 1695208542817
+url: 49.50.94.117:83/api/Support/PostRFSPubSupportRequestSearch?loginUserId=8&LoginUserRoleId=12&UniversityId=3
+name: RFS Advance Search
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "universityId": 0,
+      "rfsTypeId": 0,
+      "statusId": 0,
+      "publicationTitle": null,
+      "publicationSource": null,
+      "createdById": 0,
+      "createdDateFrom": null,
+      "createdDateTo": null,
+      "verifiedById": 0,
+      "verifiedDateFrom": null,
+      "verifiedDateTo":null
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1695208542817
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
