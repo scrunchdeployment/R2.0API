@@ -1,0 +1,21 @@
+_id: req_1eb19a18c60748a295681b46fb93d14f
+type: Request
+parentId: fld_ee783bd97a7648a487c19f302cc1c5a5
+modified: 1695301985149
+created: 1695301956122
+url: 49.50.94.117:83/api/Researcher/GetRFSPubResearcherRequestSearch?userid=15161&loginUserId=15161&LoginUserRoleId=2
+name: RFS list
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1695301956122
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
