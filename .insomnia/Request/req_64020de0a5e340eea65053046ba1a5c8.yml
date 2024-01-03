@@ -1,7 +1,7 @@
 _id: req_64020de0a5e340eea65053046ba1a5c8
 type: Request
 parentId: fld_aba222b7db214fa5a44567d15b99e83f
-modified: 1691386388155
+modified: 1704200335236
 created: 1691385781450
 url: http://49.50.94.117:83/api/Publication/PostPubScoreBookMetricsCompare
 name: Score book list with pagination

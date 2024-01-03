@@ -1,7 +1,7 @@
 _id: req_b6f2ec60b84c4a69abcfccb188e14a84
 type: Request
 parentId: fld_5ad84bcc060e40b3b57291cf1019771b
-modified: 1691572366104
+modified: 1703056953550
 created: 1691386395402
 url: http://49.50.94.117:83/api/Researcher/PostResearcherCompareWithPubMetrics
 name: "Faculty compare data with pagination "
@@ -11,10 +11,10 @@ body:
   mimeType: application/json
   text: |-
     {
-      "universityId": 3,
+      "universityId": 41,
       "roleId": 6,
       "loginUserId": 8377,
-      "locationId": 0,
+      "locationId": 807,
       "instituteId": 0,
       "departmentId": 0,
       "sortColumnName": null,

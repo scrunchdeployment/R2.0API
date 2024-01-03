@@ -1,9 +1,9 @@
 _id: req_c7dcd308326e43d7b241b164623149f7
 type: Request
 parentId: fld_2cc8fe118ab24d9d8d8bd7cf9e7ef55b
-modified: 1689842148397
+modified: 1694665366341
 created: 1689841997678
-url: http://49.50.94.117:83/api/Search/GetSearchAuthor?universityId=41&SearchText=v
+url: http://49.50.94.117:83/api/Search/GetSearchAuthor?universityId=3&SearchText=v
 name: Author Details based on university ID
 description: ""
 method: GET

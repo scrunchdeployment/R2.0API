@@ -1,9 +1,9 @@
 _id: req_83ead5bbdf0f4cfca0999410799aaca6
 type: Request
 parentId: fld_5e35c35148334722b19a77d87e07774c
-modified: 1691389635447
+modified: 1702991310315
 created: 1691389543363
-url: 49.50.94.117:83/api/Master/GetRoles?universityId=&UserId=
+url: 49.50.94.117:83/api/Master/GetRoles?universityId=3&UserId=8377
 name: List of Role
 description: ""
 method: GET

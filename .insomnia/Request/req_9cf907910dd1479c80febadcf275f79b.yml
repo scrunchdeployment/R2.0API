@@ -1,9 +1,9 @@
 _id: req_9cf907910dd1479c80febadcf275f79b
 type: Request
 parentId: fld_d5d51f0f031e458bbe27259503e8a320
-modified: 1691387247346
+modified: 1700824860580
 created: 1691386850508
-url: 49.50.94.117:83/api/Researcher/GetResearcherAuthPublications?UniversityId=&AuthorId=
+url: 49.50.94.117:83/api/Researcher/GetResearcherAuthPublications?UniversityId=3&AuthorId=8400
 name: Researcher publication detail
 description: ""
 method: GET

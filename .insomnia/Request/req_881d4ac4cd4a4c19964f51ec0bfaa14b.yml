@@ -1,9 +1,9 @@
 _id: req_881d4ac4cd4a4c19964f51ec0bfaa14b
 type: Request
 parentId: fld_7639f3cb5beb4ba0aecdd72a65218a88
-modified: 1691389480026
+modified: 1702991679655
 created: 1691389146802
-url: 49.50.94.117:83/api/Home/GetDashboard?UniversityId=&RoleId=&LoginUserid=
+url: 49.50.94.117:83/api/Home/GetDashboard?UniversityId=3&RoleId=2&LoginUserid=8377
 name: List module for dashboard API
 description: ""
 method: GET

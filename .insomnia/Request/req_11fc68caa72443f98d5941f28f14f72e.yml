@@ -1,9 +1,9 @@
 _id: req_11fc68caa72443f98d5941f28f14f72e
 type: Request
 parentId: fld_0ba0a0137e9648c7a0569bc432330a42
-modified: 1691389037161
+modified: 1702992058321
 created: 1691388910035
-url: 49.50.94.117:83/api/Support/GetSupportPublicationsById?roleId=&loginUserId=
+url: 49.50.94.117:83/api/Support/GetSupportPublicationsById?roleId=12&loginUserId=10
 name: data for view publication
 description: ""
 method: GET
