@@ -1,0 +1,21 @@
+_id: req_1ee74faebd794292bc15e1ebc60b2e69
+type: Request
+parentId: fld_190fd8b0768b4612843d98735c12f550
+modified: 1704199479562
+created: 1704199304125
+url: http://49.50.94.117:83/api/Search/GetSearchAuthor?universityId=2&SearchText=A
+name: GET SEARCH AUTHOR
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704199304125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

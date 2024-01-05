@@ -1,0 +1,21 @@
+_id: req_a4803919c449451ab19843e3602a21f0
+type: Request
+parentId: fld_aec9ab606adf43cf8d6cdce2668c66d6
+modified: 1704199973187
+created: 1704199941796
+url: http://49.50.94.117:83/api/Master/GetMasterDropDownValues?columnName=Level
+name: GET MASTER DROP DOWN
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704199941796
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

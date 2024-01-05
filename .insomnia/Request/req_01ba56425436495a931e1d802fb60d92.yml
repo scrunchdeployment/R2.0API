@@ -1,0 +1,39 @@
+_id: req_01ba56425436495a931e1d802fb60d92
+type: Request
+parentId: fld_9f9737474a414b9f8c69ff2033aca11e
+modified: 1704275888283
+created: 1704197183256
+url: http://49.50.94.117:83/api/SRQNotIf/InsUpdServiceRequests?RoleId=12&LoginUserId=8
+name: POST INS UPD SERVICE REQUEST
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "pubListForApproval": [
+        {
+          "inputFrom": "DFS",
+          "rfsPublicationQueueId": 0,
+          "publicationId": 4002
+        },
+       {
+          "inputFrom": "RFS",
+         "rfsPublicationQueueId": 9,
+         "publicationId": 4001
+        }
+      ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1704197183256
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

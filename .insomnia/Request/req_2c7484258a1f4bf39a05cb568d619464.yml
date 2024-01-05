@@ -1,0 +1,21 @@
+_id: req_2c7484258a1f4bf39a05cb568d619464
+type: Request
+parentId: fld_a3edc3dab94c473eaeaf41382818a5cf
+modified: 1704196051241
+created: 1704195596351
+url: http://49.50.94.117:83/api/Search/GetRFSPublicationUserAvailability?userId=15160&type=L&publicationId=27&publicationTitle=Artificial%20Intelligence%20Optimization%20of%20Turning%20Parameters%20of%20Nanoparticle-Reinforced%20P/M%20Alloy%20Tool&publicationSource=
+name: GET RFS PUBLICATION USER AVAILABLITY
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704195596351
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_49210ced2d944e4c91ced29e79fafe5b
+type: Request
+parentId: fld_5221ea8b797d42c8b9dfab6812ebbe31
+modified: 1704194482571
+created: 1704169770198
+url: http://49.50.94.117:83/api/Account/UpdateUserCredentials?UserId=15160&Password=321&EmailId=traj152000@gmail.com&UpdateLoginTime=1
+name: UPDATE USER CREDENTIALS
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704169770198
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

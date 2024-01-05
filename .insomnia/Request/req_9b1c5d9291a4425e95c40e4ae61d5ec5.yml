@@ -1,0 +1,21 @@
+_id: req_9b1c5d9291a4425e95c40e4ae61d5ec5
+type: Request
+parentId: fld_a3edc3dab94c473eaeaf41382818a5cf
+modified: 1704195873016
+created: 1704195603713
+url: http://49.50.94.117:83/api/Researcher/GetRFSPubResearcherRequestSearch?userid=15160&loginUserId=15160&LoginUserRoleId=2
+name: GET RFS PUB RESEARCHER
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704195603713
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,41 @@
+_id: req_80d5a23c6f06437588578d58627249e7
+type: Request
+parentId: fld_aec9ab606adf43cf8d6cdce2668c66d6
+modified: 1704275751143
+created: 1704199763300
+url: http://49.50.94.117:83/api/Publication/PostPubScoreBookMetricsCompare
+name: POST PUB SCOREBOOK COMPARE
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "universityId": 3,
+      "roleId": 9,
+      "loginUserId": 8394,
+      "locationId": null,
+      "instituteId": 7,
+      "departmentId": 9,
+      "sortColumnName": null,
+      "sortType": null,
+      "fromMonthYear": null,
+      "toMonthYear":null,
+      "startRow": 0,
+      "endRow": 5,
+      "download": 0,
+      "filter": 1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1704199763300
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

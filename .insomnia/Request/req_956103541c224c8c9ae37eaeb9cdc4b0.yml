@@ -1,0 +1,21 @@
+_id: req_956103541c224c8c9ae37eaeb9cdc4b0
+type: Request
+parentId: fld_c98cf0df0284499d85f6da5f7b725765
+modified: 1703045423964
+created: 1702993134534
+url: http://49.50.94.117:83/api/Support/GetSupportPublicationsById?roleId=12&loginUserId=8&UniversityId=3
+name: Data for view publication
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1702993134534
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,40 @@
+_id: req_23cc29ec98cd4c04a7ad793583f1bf72
+type: Request
+parentId: fld_9f9737474a414b9f8c69ff2033aca11e
+modified: 1704275882669
+created: 1704197485802
+url: http://49.50.94.117:83/api/Support/UpdatePubReviewStatus?LoginUserId=8&LoginRoleId=12&Status=1
+name: UPDATE PUB REVIEW STATUS
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    { 
+
+      "pubListForApproval": [ 
+        { 
+          "inputFrom": "DFS", 
+          "rfsPublicationQueueId": 0, 
+          "publicationId": 4002 
+        }, 
+       { 
+          "inputFrom": "RFS", 
+          "rfsPublicationQueueId": 9, 
+          "publicationId": 4001 
+        } 
+      ] 
+    } 
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1704197485802
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

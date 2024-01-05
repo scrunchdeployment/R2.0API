@@ -1,0 +1,21 @@
+_id: req_836845d2bff74b4cbc72183756ae6969
+type: Request
+parentId: fld_aec9ab606adf43cf8d6cdce2668c66d6
+modified: 1704199870926
+created: 1704199764960
+url: http://49.50.94.117:83/api/Publication/GetPubScoreBookMetrics?universityId=41&roleId=2&loginUserId=15160
+name: GET PUB SCOREBOOK METRICS
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704199764960
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_052055b15f6d4d42819192aed5aa7d92
+type: Request
+parentId: fld_19cc3e3966034a219a8654630f5c7342
+modified: 1704195380339
+created: 1704195318194
+url: http://49.50.94.117:83/api/Publication/UpdateYTVStatus?PublicationId=2730&Userid=15160&Status=1
+name: GET YTV STATUS
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704195318194
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_8aa47f703d6a4088b0a2cfb4c782842d
+type: Request
+parentId: fld_a3edc3dab94c473eaeaf41382818a5cf
+modified: 1704195943798
+created: 1704195599896
+url: http://49.50.94.117:83/api/Search/GetSearchForAutoComplete?SearchColumn=Publication&SearchString=ARTIC
+name: GET AUTO SEARCH
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704195599896
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

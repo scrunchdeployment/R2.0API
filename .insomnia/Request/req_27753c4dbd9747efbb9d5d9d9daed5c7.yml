@@ -1,0 +1,21 @@
+_id: req_27753c4dbd9747efbb9d5d9d9daed5c7
+type: Request
+parentId: fld_19cc3e3966034a219a8654630f5c7342
+modified: 1704194806039
+created: 1704194740801
+url: http://49.50.94.117:83/api/Researcher/GetResearcherBasicInfo?universityId=41&userId=15160
+name: RESEARCHER BASIC INFO
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704194740801
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,45 @@
+_id: req_bdaa85b2997349a294009d7d018873e6
+type: Request
+parentId: fld_19cc3e3966034a219a8654630f5c7342
+modified: 1704276013712
+created: 1704195233507
+url: http://49.50.94.117:83/api/User/UpdateUserInfo?loginUserId=15160&loginUserRoleId=6
+name: UPDATE USER INFO
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {"universityId": 7,
+      "userId": 3,
+      "titleId": 1,
+      "fullName": "VISHAL TALWAR",
+      "dateOfBirth": "0001-01-01T00:00:00",
+      "dateOfJoining": "0001-01-01T00:00:00",
+      "orcid": null,
+      "scopusId": null,
+     "genderId":2,
+      "wosId": "wosid",
+      "vidwanId": null,
+      "googleScholarId": null,
+      "designationId": 4,
+      "locationId": 1,
+      "instituteId": 1,
+      "departmentId": 1,
+      "researchArea": null,
+    "UserStatusId":0,
+    "RoleId":"2,1,3,6,7"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1704195233507
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

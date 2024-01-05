@@ -1,0 +1,21 @@
+_id: req_109359738d0a4308bc95a29e5e6e34bf
+type: Request
+parentId: fld_a3edc3dab94c473eaeaf41382818a5cf
+modified: 1704196410377
+created: 1704196193083
+url: http://49.50.94.117:83/api/Support/GetRFSPubAuthorDetails?RFSRequestId=58&PublicationId=27
+name: GET RFS SUB AUTHOR DETAILS
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704196193083
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_e3906735f4b74fc7b3fba91c645fcfc8
+type: Request
+parentId: fld_9f9737474a414b9f8c69ff2033aca11e
+modified: 1704197174802
+created: 1704197134643
+url: http://49.50.94.117:83/api/SRQNotIf/GetAssignedToForSRQ?UniversityId=1
+name: GET ASSIGNED FOR SRQ
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704197134643
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

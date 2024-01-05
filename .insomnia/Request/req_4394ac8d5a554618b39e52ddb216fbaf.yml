@@ -1,0 +1,37 @@
+_id: req_4394ac8d5a554618b39e52ddb216fbaf
+type: Request
+parentId: fld_9f9737474a414b9f8c69ff2033aca11e
+modified: 1704275880270
+created: 1704197488632
+url: http://49.50.94.117:83/api/SRQNotIf/PostServiceRequestsSearch?RoleId=12&LoginUserId=8
+name: POST SERVICE REQUEST SEARCH
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    "universityId":null,
+    "serviceTypeId":null,
+    "categoryId":null,
+    "priorityId":null,
+    "assignedTo":null,
+    "statusId":null,
+    "createdDate":null,
+    "resolvedDate":null,
+    "resolvedBy":null
+     
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1704197488632
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

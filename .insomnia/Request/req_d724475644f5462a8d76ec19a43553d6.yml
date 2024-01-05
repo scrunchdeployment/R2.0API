@@ -1,0 +1,29 @@
+_id: req_d724475644f5462a8d76ec19a43553d6
+type: Request
+parentId: fld_5221ea8b797d42c8b9dfab6812ebbe31
+modified: 1704276078320
+created: 1702991530448
+url: http://49.50.94.117:83/api/Account/Login?username=rec_faculty1&password=123
+name: login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"userName":"rec_faculty1",
+    	"password":"123"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1702991530448
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

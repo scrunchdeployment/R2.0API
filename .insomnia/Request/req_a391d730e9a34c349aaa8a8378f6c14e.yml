@@ -1,0 +1,21 @@
+_id: req_a391d730e9a34c349aaa8a8378f6c14e
+type: Request
+parentId: fld_9f9737474a414b9f8c69ff2033aca11e
+modified: 1704197362360
+created: 1704197181139
+url: http://49.50.94.117:83/api/SRQNotIf/GetCategoriesForServiceType?ServiceType=SERVICEREQUEST
+name: GET CATEGORIES FOR SERVICE TYPE
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704197181139
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

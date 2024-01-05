@@ -1,0 +1,21 @@
+_id: req_c4406d6314894fd29e0ad7be328862df
+type: Request
+parentId: fld_190fd8b0768b4612843d98735c12f550
+modified: 1704199292173
+created: 1704198262971
+url: http://49.50.94.117:83/api/Master/GetDBNameForDFS
+name: GET DB NAME FOR DFS
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704198262971
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_cabe5522bc3548059f1545cfc3790aef
+type: Request
+parentId: fld_5221ea8b797d42c8b9dfab6812ebbe31
+modified: 1704169888284
+created: 1704169793591
+url: http://49.50.94.117:83/api/Account/GetEmailId?UserName=IMT_management&Type=USERNAME
+name: GET EMAIL OR USERNAME
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704169793591
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

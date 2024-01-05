@@ -1,0 +1,47 @@
+_id: req_3ba5e53a6b564c29b43ba7f268949cef
+type: Request
+parentId: fld_aec9ab606adf43cf8d6cdce2668c66d6
+modified: 1704275747930
+created: 1704199768055
+url: http://49.50.94.117:83/api/Publication/PostPublicationSearchDetails
+name: POST PUBLICATION SEARCH DETAILS
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    { 
+
+      "universityId": null, 
+      "roleId": 6, 
+      "loginUserId": 7, 
+      "sortColumnName": null, 
+      "sortType": null, 
+      "startRow": 0, 
+      "endRow": 0, 
+      "download": 0, 
+      "filter": 0, 
+      "pubSearchList": [ 
+        { 
+          "columnName": "PublicationTitle", 
+          "searchType": "Like", 
+          "searchId": null, 
+          "searchValue": "Fluorescent", 
+          "rangeFrom": null, 
+          "rangeTo": null 
+        } 
+      ] 
+    } 
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1704199768055
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

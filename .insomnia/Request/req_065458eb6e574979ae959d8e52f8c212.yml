@@ -1,0 +1,45 @@
+_id: req_065458eb6e574979ae959d8e52f8c212
+type: Request
+parentId: fld_8f183e19e8d449c1abaa8e7588df52b1
+modified: 1704275761177
+created: 1704197736079
+url: http://49.50.94.117:83/api/User/UpdateUserInfo?loginUserId=3&loginUserRoleId=2
+name: ADD NEW USER
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    {"universityId": 7,
+      "userId": 3,
+      "titleId": 1,
+      "fullName": "VISHAL TALWAR",
+      "dateOfBirth": "0001-01-01T00:00:00",
+      "dateOfJoining": "0001-01-01T00:00:00",
+      "orcid": null,
+      "scopusId": null,
+     "genderId":2,
+      "wosId": "wosid",
+      "vidwanId": null,
+      "googleScholarId": null,
+      "designationId": 4,
+      "locationId": 1,
+      "instituteId": 1,
+      "departmentId": 1,
+      "researchArea": null,
+    "UserStatusId":0,
+    "RoleId":"2,1,3,6,7"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1704197736079
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_89aa94c071af42ad8dab4b798bb363a8
+type: Request
+parentId: fld_c788d962026441d5afed396022006072
+modified: 1702991742069
+created: 1702991716830
+url: 49.50.94.117:83/api/Home/GetDashboard?UniversityId=3&RoleId=2&LoginUserid=8377
+name: List Module
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1702991716830
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_1b5ac56fba594016a633297a5fd70029
+type: Request
+parentId: fld_9f9737474a414b9f8c69ff2033aca11e
+modified: 1704197458422
+created: 1704197179113
+url: http://49.50.94.117:83/api/SRQNotIf/GetServiceRequests?roleId=5&loginUserId=15172&UniversityId=41
+name: (SUPPORT)-GET SERVICE REQUESTS
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704197179113
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_0ed006c13c3a47c1a1a2799ba4051d12
+type: Request
+parentId: fld_a3edc3dab94c473eaeaf41382818a5cf
+modified: 1704195995633
+created: 1704195598144
+url: http://49.50.94.117:83/api/Search/GetPublicationForDOIorTitle?IsDOI=1&SearchText=10.1177/1350650119829981
+name: GET PUBLICATION FOR DOI AND TITLE
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704195598144
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

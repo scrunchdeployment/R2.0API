@@ -1,0 +1,21 @@
+_id: req_1188dc3fcc354e8095d0549ed0a3a1ac
+type: Request
+parentId: fld_9f9737474a414b9f8c69ff2033aca11e
+modified: 1704197216619
+created: 1704197187098
+url: http://49.50.94.117:83/api/SRQNotIf/GetServiceRequests?roleId=12&loginUserId=8
+name: GET SERVICE REQUEST
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704197187098
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

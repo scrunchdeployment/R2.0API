@@ -1,0 +1,21 @@
+_id: req_486d74ff2bbd47d3abe81b6af757d5c1
+type: Request
+parentId: fld_190fd8b0768b4612843d98735c12f550
+modified: 1704199439085
+created: 1704199305886
+url: http://49.50.94.117:83/api/Search/GetPubSourceForAutoComplete?PublicationSourceId=1
+name: GET PUB SOURCE FOR AUTO COMPLETE
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704199305886
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

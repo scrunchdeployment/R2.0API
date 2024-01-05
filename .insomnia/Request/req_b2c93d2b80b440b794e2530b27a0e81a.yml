@@ -1,0 +1,21 @@
+_id: req_b2c93d2b80b440b794e2530b27a0e81a
+type: Request
+parentId: fld_aec9ab606adf43cf8d6cdce2668c66d6
+modified: 1704199757701
+created: 1704199701084
+url: http://49.50.94.117:83/api/Support/GetSupportPublicationsById?roleId=11&loginUserId=7&UniversityId=41
+name: GET SUPPORT PUBLICATION
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704199701084
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

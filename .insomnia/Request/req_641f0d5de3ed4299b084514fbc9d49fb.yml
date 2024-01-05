@@ -1,0 +1,21 @@
+_id: req_641f0d5de3ed4299b084514fbc9d49fb
+type: Request
+parentId: fld_5221ea8b797d42c8b9dfab6812ebbe31
+modified: 1704170065259
+created: 1704169774741
+url: http://49.50.94.117:8076/get-sent-emails
+name: GET SENT EMAIL
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704169774741
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

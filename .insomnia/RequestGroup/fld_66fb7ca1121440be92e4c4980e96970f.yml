@@ -1,0 +1,10 @@
+_id: fld_66fb7ca1121440be92e4c4980e96970f
+type: RequestGroup
+parentId: wrk_e97b91dbd6fc444d8523a382a7c2b65e
+modified: 1704257317952
+created: 1704200160264
+name: NOTIFICATION
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1703623637603

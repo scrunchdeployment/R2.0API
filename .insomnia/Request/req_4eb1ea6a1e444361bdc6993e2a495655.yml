@@ -1,0 +1,29 @@
+_id: req_4eb1ea6a1e444361bdc6993e2a495655
+type: Request
+parentId: fld_5221ea8b797d42c8b9dfab6812ebbe31
+modified: 1704276059443
+created: 1704169791291
+url: http://49.50.94.117:8076/send-email
+name: POST SEND EMAIL
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |
+    
+    	{
+    		"to": "stegithroach17@gmail.com"
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1704169791291
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

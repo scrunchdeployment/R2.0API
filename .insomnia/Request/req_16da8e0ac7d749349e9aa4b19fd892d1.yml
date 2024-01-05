@@ -1,0 +1,21 @@
+_id: req_16da8e0ac7d749349e9aa4b19fd892d1
+type: Request
+parentId: fld_a3edc3dab94c473eaeaf41382818a5cf
+modified: 1704196442477
+created: 1704196190914
+url: http://49.50.94.117:83/api/Support/GetRFSRequestedUserDetails?RFSRequestId=58&RFSTypeId=1
+name: GET RFS REQUEST USER DETAILS
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704196190914
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_187e284eb3d54592b162690ef8e571ea
+type: Request
+parentId: fld_19cc3e3966034a219a8654630f5c7342
+modified: 1704195012088
+created: 1704194767348
+url: http://49.50.94.117:83/api/Researcher/GetPublicationCntByInHouse?universityId=41&userId=15160
+name: CHART - GET PUBLICATION CNT BY HOUSE
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704194767348
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

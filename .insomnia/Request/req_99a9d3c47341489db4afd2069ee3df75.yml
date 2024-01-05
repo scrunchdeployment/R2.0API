@@ -1,0 +1,21 @@
+_id: req_99a9d3c47341489db4afd2069ee3df75
+type: Request
+parentId: fld_19cc3e3966034a219a8654630f5c7342
+modified: 1704195473476
+created: 1704195314365
+url: http://49.50.94.117:8076/getImage?userImage=IMTG\Profile\null
+name: GET IMAGE API
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704195314365
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

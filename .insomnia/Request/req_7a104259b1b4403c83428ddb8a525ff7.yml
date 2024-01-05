@@ -1,0 +1,21 @@
+_id: req_7a104259b1b4403c83428ddb8a525ff7
+type: Request
+parentId: fld_66fb7ca1121440be92e4c4980e96970f
+modified: 1704200237297
+created: 1704200192471
+url: http://49.50.94.117:83/api/SRQNotIf/GetNotifications?UniversityId=41&RoleId=2&LoginUserId=15160
+name: GET NOTIFICATION
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704200192471
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

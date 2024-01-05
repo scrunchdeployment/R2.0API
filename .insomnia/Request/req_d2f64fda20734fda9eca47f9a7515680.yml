@@ -1,0 +1,21 @@
+_id: req_d2f64fda20734fda9eca47f9a7515680
+type: Request
+parentId: fld_a3edc3dab94c473eaeaf41382818a5cf
+modified: 1704195904779
+created: 1704195601758
+url: http://49.50.94.117:83/api/Search/GetCustomerUniversity?loginUserid=15160&roleId=12
+name: GET CUSTOMER UNIVERSITY
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704195601758
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

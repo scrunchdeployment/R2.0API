@@ -1,0 +1,21 @@
+_id: req_fba002ef1a75402fa476098c95c7843f
+type: Request
+parentId: fld_a3edc3dab94c473eaeaf41382818a5cf
+modified: 1704196334491
+created: 1704196195037
+url: http://49.50.94.117:83/api/Support/GetRFSSupportRequests?roleId=11&loginUserId=7&universityId=41
+name: GET RFS SUPPORT REQUEST
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704196195037
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_74cd001370fd408697896050a8f9c38e
+type: Request
+parentId: fld_19cc3e3966034a219a8654630f5c7342
+modified: 1704195038893
+created: 1704194769752
+url: http://49.50.94.117:83/api/Researcher/GetPublicationCntByArticleType?universityId=41&userId=15160
+name: CHART - GET RESEARCHER ARTICLE TYPE
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704194769752
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

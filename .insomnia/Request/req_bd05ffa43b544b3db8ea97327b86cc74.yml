@@ -1,0 +1,21 @@
+_id: req_bd05ffa43b544b3db8ea97327b86cc74
+type: Request
+parentId: fld_a3edc3dab94c473eaeaf41382818a5cf
+modified: 1704195842627
+created: 1704195606004
+url: http://49.50.94.117:83/api/Master/GetFilePathForUpload?universityId=41&userId=15160&documentTypeId=1
+name: GET FILE PATH FOR UPLOAD
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1704195606004
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

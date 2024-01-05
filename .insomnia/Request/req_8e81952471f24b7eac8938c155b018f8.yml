@@ -1,0 +1,41 @@
+_id: req_8e81952471f24b7eac8938c155b018f8
+type: Request
+parentId: fld_19cc3e3966034a219a8654630f5c7342
+modified: 1704275985215
+created: 1704195316106
+url: http://49.50.94.117:83/api/Researcher/PostResearcherList
+name: POST RESEARCHER LIST
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "universityId": 3,
+      "roleId": 6,
+      "loginUserId": 8377,
+      "locationId": 0,
+      "instituteId": 0,
+      "departmentId": 0,
+      "sortColumnName": null,
+      "sortType": null,
+      "fromMonthYear": null,
+      "toMonthYear":null,
+      "startRow": 0,
+      "endRow": 5,
+      "download": 0,
+      "filter": 0
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1704195316106
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
